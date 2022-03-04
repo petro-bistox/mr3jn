@@ -1,0 +1,6 @@
+# vendors
+vendor/
+
+# editors
+.idea/
+.vscode/
